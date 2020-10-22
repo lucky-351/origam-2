@@ -1,0 +1,24 @@
+.info{
+    background-color: burlywood ;
+  display:flex;
+  justify-content:space-between ;
+}
+
+h1{
+    color: orange;
+    text-align: center;
+    background-color: skyblue;
+}
+h3{
+    color: black;
+    
+}
+p,h3{
+    text-align: center;
+}
+.about{
+    display:flex;
+    justify-content:flex-end ;
+    text-align: center;
+}
+
